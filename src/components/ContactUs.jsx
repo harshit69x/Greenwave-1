@@ -48,6 +48,7 @@ function ContactUs() {
                 <h2 class="mt-4 text-lg font-medium text-gray-800 dark:text-white">Phone</h2>
                 <p class="mt-2 text-gray-500 dark:text-gray-400">Mon-Fri from 8am to 5pm.</p>
                 <p class="mt-2 text-blue-500 dark:text-blue-400">(+91)9886857845</p>
+                <p class="mt-2 text-blue-500 dark:text-blue-400">(+91)9972992611</p>
             </div>
         </div>
     </div>

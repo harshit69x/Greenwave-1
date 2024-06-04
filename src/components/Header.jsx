@@ -10,8 +10,8 @@ function Header() {
     // { id: 1, title: "Home", to: "home" },
     { id: 2, title: "Features", to: "features" },
     { id: 3, title: "Services", to: "services" },
-    { id: 3, title: "Contact", to: "contact" },
     { id: 3, title: "Gallery", to: "gallery" },
+    { id: 3, title: "Contact Us", to: "contact" },
     
   ];
 
