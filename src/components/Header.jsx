@@ -72,6 +72,7 @@ function Header() {
                 <span className="sr-only">Your Company</span>
                 <img className="h-16 w-auto" src="/logo.jpg" alt="Logo" />
               </a>
+              <h1 className="ml-4 text-xl font-bold text-gray-900">R2S GREENWAVE</h1>
               <button
                 type="button"
                 className="-m-2.5 rounded-md p-2.5 text-gray-700"

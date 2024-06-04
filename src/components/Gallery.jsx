@@ -15,13 +15,13 @@ function Gallery() {
   ];
 
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen bg-gray-100 p-4" id="gallery">
+    <div className="flex flex-col justify-center items-center min-h-screen bg-gray-100 p-4 " id="gallery">
       <h1 className="text-4xl font-bold mb-6">Gallery</h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 max-w-full place-items-center">
         {images.map((src, index) => (
           <img
             key={index}
-            className="w-72 h-72 object-cover hover:opacity-75"
+            className="w-72 h-72 object-cover hover:opacity-75 rounded-md"
             src={src}
             alt={'Gallery item ${index + 1}'}
           />
