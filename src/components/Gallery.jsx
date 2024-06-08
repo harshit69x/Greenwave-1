@@ -15,15 +15,25 @@ function Gallery() {
   ];
 
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen bg-gray-100 p-4 " id="gallery">
-      <h1 className="text-4xl font-bold mb-6">Gallery</h1>
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 max-w-full place-items-center">
+    <div className="flex flex-col justify-center items-center min-h-screen bg-gray-100 p-8" id="gallery">
+      <h1 className="text-4xl font-bold mb-6 text-center">Products</h1>
+      <div className="mb-8 text-center max-w-2xl">
+        <h2 className="text-2xl font-semibold mb-4">Explore Our Collection</h2>
+        <p className="mb-4">
+          From elegant plates and bowls to stylish cutlery and serving trays, our diverse range of Arecanut Palm Leaf Dinnerware products offers something for every occasion and aesthetic preference. Browse our catalog to discover the perfect pieces to elevate your dining experience.
+        </p>
+        <h2 className="text-2xl font-semibold mb-4">Join the Sustainable Dining Revolution</h2>
+        <p className="mb-4">
+          Make a statement in support of sustainability and environmental conservation by incorporating Arecanut Palm Leaf Dinnerware into your dining repertoire. With every purchase, you contribute to the preservation of our planet's natural resources while enjoying the beauty and functionality of our eco-friendly products.
+        </p>
+      </div>
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
         {images.map((src, index) => (
           <img
             key={index}
-            className="w-72 h-72 object-cover hover:opacity-75 rounded-md"
+            className="w-full h-48 object-cover hover:opacity-75 rounded-md"
             src={src}
-            alt={'Gallery item ${index + 1}'}
+            alt={`Gallery item ${index + 1}`}
           />
         ))}
       </div>

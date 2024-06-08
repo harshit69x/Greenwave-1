@@ -37,7 +37,7 @@ const BackgroundImageComponent = () => {
         </h1>
         <br/>
         <p className="text-white text-center text-lg sm:text-xl md:text-2xl lg:text-3xl mt-4 font-semibold">
-          Leading the way in eco-friendly solutions
+        Your Premier Import-Export Partner
         </p>
         <p className="text-white text-center text-base sm:text-lg md:text-xl lg:text-2xl mt-2">
         We emphasize eco-conscious dining practices, offering products that are aesthetically pleasing, environmentally friendly, and socially responsible. 
