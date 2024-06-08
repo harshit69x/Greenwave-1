@@ -1,5 +1,5 @@
 import ContactUs from "./components/ContactUs";
-import Services from "./components/Services";
+// import Services from "./components/Services";
 import Header from "./components/Header";
 import Features from "./components/Features";
 import Home from "./components/Home";
@@ -26,7 +26,7 @@ function App() {
       <Content/>
       <Features />
       <Gallery/>
-      <Services/>
+      {/* <Services/> */}
       <ContactUs/>
     </>
   );
