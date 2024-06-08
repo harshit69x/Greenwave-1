@@ -8,8 +8,8 @@ function Header() {
   
   const menuItems = [
     // { id: 1, title: "Home", to: "home" },
-    { id: 2, title: "Features", to: "features" },
-    { id: 3, title: "Services", to: "services" },
+    { id: 2, title: "About Us", to: "aboutus" },
+    { id: 3, title: "Features", to: "features" },
     { id: 3, title: "Gallery", to: "gallery" },
     { id: 3, title: "Contact Us", to: "contact" },
     

@@ -6,7 +6,7 @@ function Content() {
       <section className="bg-white dark:bg-gray-200">
         <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
           <div className="font-normal text-gray-500 sm:text-lg dark:text-black">
-            <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-black">About Us</h2>
+            <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-black aboutus">About Us</h2>
             <div className="mb-4">
               <p className="mb-4">
                 <b>R2S GREENWAVE</b> is more than just an import-export firm, we are catalysts for your global success story.

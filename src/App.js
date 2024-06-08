@@ -24,8 +24,8 @@ function App() {
       <Header />
       <Home/>
       <Content/>
-      <Features />
       <Gallery/>
+      <Features />
       {/* <Services/> */}
       <ContactUs/>
     </>

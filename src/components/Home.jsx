@@ -35,12 +35,22 @@ const BackgroundImageComponent = () => {
         <h1 className="text-white text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold">
           R2S GREENWAVE
         </h1>
-        <br/>
+        <br />
         <p className="text-white text-center text-lg sm:text-xl md:text-2xl lg:text-3xl mt-4 font-semibold">
-        Your Premier Import-Export Partner
+          Your Premier Import-Export Partner
         </p>
         <p className="text-white text-center text-base sm:text-lg md:text-xl lg:text-2xl mt-2">
-        We emphasize eco-conscious dining practices, offering products that are aesthetically pleasing, environmentally friendly, and socially responsible. 
+          Welcome to  R2S GREENWAVE– Your Premier Import-Export Partner.
+
+          At R2S GREENWAVE we are dedicated to facilitating seamles. s global trade by providing comprehensive import and export solutions tailored to meet the unique needs of our clients. We bring fresh energy and innovative approaches to the dynamic world of international commerce.
+
+          With a deep understanding of the complexities of cross-border transactions, our team of experts is poised to navigate the intricacies of sourcing, logistics, customs clearance, and documentation, ensuring efficient and cost-effective movement of goods across borders.
+
+          Driven by a passion for excellence and a commitment to customer satisfaction, we strive to build long-lasting partnerships with our clients, offering personalized attention and strategic guidance every step of the way. Whether you are a small business venturing into global markets or a multinational corporation seeking to optimize your supply chain, we are here to empower your success.
+
+          Discover the possibilities with us and experience the difference of working with a trusted partner dedicated to your import-export success.
+
+          Contact us today to explore how we can help you unlock new opportunities in the global marketplace.
         </p>
       </div>
     </div>
